@@ -9,7 +9,7 @@
 # Basic Site Settings
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "air"
 title                    : "Héctor Rivada Rodríguez"
 title_separator          : "-"
 name                     : &name "Héctor Rivada Rodríguez"
