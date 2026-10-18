@@ -3,7 +3,7 @@ permalink: /
 title: "About"
 author_profile: true
 header:
-  image: "banner-protesis-3d-v2.png"
+  image: "banner-protesis-animales.png"
 redirect_from:
   - /about/
   - /about.html
