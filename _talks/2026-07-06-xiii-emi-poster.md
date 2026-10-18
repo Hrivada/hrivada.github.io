@@ -6,7 +6,7 @@ permalink: /talks/2026-07-06-xiii-emi-poster
 venue: "XIII Encontro da Mocidade Investigadora"
 date: 2026-07-06
 location: "Lugo, Spain"
----
+published: false
 
 *3D-printing polymers for external veterinary orthoses and prostheses: an analysis of the clinical evidence.*
 
