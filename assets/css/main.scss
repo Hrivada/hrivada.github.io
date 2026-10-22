@@ -179,10 +179,17 @@ h1, h2, h3,
   }
 }
 
-/* Avatar montado sobre el borde inferior del banner */
+/* Barra lateral junto al texto, con el avatar montado sobre el borde del banner */
 @media screen and (min-width: 1024px) {
   .sidebar {
+    position: relative;
+    height: auto;
+    overflow-y: visible;
+    padding-top: 0;
     margin-top: -130px;
+  }
+  .page {
+    padding-right: 6%;
   }
 }
 .author__avatar img {
