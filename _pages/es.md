@@ -3,7 +3,7 @@ permalink: /es/
 title: "Sobre mí"
 author_profile: true
 header:
-  image: "banner-protesis-animales.png"
+  image: "banner-animado.webp"
 ---
 
 *[English version](/)*
