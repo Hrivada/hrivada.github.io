@@ -23,7 +23,7 @@ author:
   avatar           : "5-hrr-grande.png"
   name             : "Héctor Rivada Rodríguez"
   pronouns         :
-  bio              : "PhD candidate · Low-cost FDM 3D printing for personalised veterinary orthopaedics"
+  bio              : "PhD student · Low-cost FDM 3D printing for personalised veterinary orthopaedics"
   location         : "Lugo, Spain"
   employer         : "USC · Campus Terra"
   uri              :
@@ -77,7 +77,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -95,7 +95,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "og-image.png"# Social media default site image
+og_image                 :  "og-image.png"
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
