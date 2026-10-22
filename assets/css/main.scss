@@ -164,3 +164,15 @@ h1, h2, h3,
   color: #d7e3e6;
 }
  
+/* Barra lateral debajo del banner (en lugar de fija encima) y texto más ancho */
+@media screen and (min-width: 1024px) {
+  .sidebar {
+    position: relative;
+    height: auto;
+    overflow-y: visible;
+    padding-top: 0;
+  }
+  .page {
+    padding-right: 6%;
+  }
+}
