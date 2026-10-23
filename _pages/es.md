@@ -29,4 +29,4 @@ Estoy abierto a colaborar con clínicas veterinarias, centros de rehabilitación
 - **Oct. 2026** — **Premio al mejor póster** en el II Congreso Ibérico de Mocidade Investigadora Campus Terra (Lugo) por el póster háptico impreso en 3D [*Touching 3D Printing*](/talks/2026-10-21-campus-terra-haptic-poster).
 - **Oct. 2026** — Revisión publicada en *Materials Today Communications*: [Polymeric materials in additive manufacturing for personalised orthopaedics](https://doi.org/10.1016/j.mtcomm.2026.116294) (acceso abierto).
 - **Jul. 2026** — Póster en el XIII Encontro da Mocidade Investigadora (Lugo) sobre polímeros de impresión 3D para órtesis y prótesis veterinarias.
-- **2026** — Premio ENCE.
+- **Jun. 2026** — **VI Premio Cámara de Comercio–Ence a la Innovación Forestal** (Emprendimiento y Talento Joven) por mi Trabajo Fin de Máster. Ver [Premios](/es/premios/).
