@@ -196,3 +196,11 @@ h1, h2, h3,
   position: relative;
   z-index: 2;
 }
+
+
+/* Accesibilidad: banner quieto si el usuario pide reducir movimiento */
+@media (prefers-reduced-motion: reduce) {
+  .page__hero-image {
+    content: url("/images/banner-estatico.png");
+  }
+}
