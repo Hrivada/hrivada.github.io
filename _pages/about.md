@@ -24,6 +24,7 @@ My research develops a low-cost workflow to design, optimise and validate person
 
 ## News
 
+- **Oct 2026** — **Best Poster Award** at the II Iberian Early-Career Researchers' Congress of the Campus Terra (Lugo) for the haptic 3D-printed poster [*Touching 3D Printing*](/talks/2026-10-21-campus-terra-haptic-poster).
 - **Oct 2026** — Review published in *Materials Today Communications*: [Polymeric materials in additive manufacturing for personalised orthopaedics](https://doi.org/10.1016/j.mtcomm.2026.116294) (open access).
 - **Jul 2026** — Poster at the XIII Encontro da Mocidade Investigadora (Lugo) on 3D-printing polymers for veterinary orthoses and prostheses.
 - **2026** — ENCE Award.
