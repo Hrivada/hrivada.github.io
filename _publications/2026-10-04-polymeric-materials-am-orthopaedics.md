@@ -7,6 +7,7 @@ excerpt: 'Systematic review (PRISMA) of 60 studies (2017–2025) on the mechanic
 date: 2026-10-04
 venue: 'Materials Today Communications'
 paperurl: 'https://doi.org/10.1016/j.mtcomm.2026.116294'
+bibtexurl: 'https://api.crossref.org/works/10.1016/j.mtcomm.2026.116294/transform/application/x-bibtex'
 citation: 'Rivada-Rodríguez, H., Rodríguez, J., Conde, A. (2026). Polymeric materials in additive manufacturing for personalised orthopaedics: A review on mechanical properties, process optimisation and validation. <i>Materials Today Communications</i>, 57, 116294.'
 ---
 
