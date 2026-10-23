@@ -10,6 +10,8 @@ location: "Lugo, Spain"
 
 **Authors:** H. Rivada-Rodríguez, A. Conde-Fernández, J. Rodríguez
 
+**🏆 Best Poster Award.**
+
 A 3D-printed, touchable poster that lets visitors feel how manufacturing parameters (material, orientation, infill, speed) change printed parts for personalised orthopaedics.
 
 Poster, README with printing parameters, photos and STL files: [doi:10.5281/zenodo.23569034](https://doi.org/10.5281/zenodo.23569034) (CC BY 4.0).
