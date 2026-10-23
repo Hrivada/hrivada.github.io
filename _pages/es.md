@@ -22,7 +22,7 @@ Mi investigación desarrolla un flujo de trabajo de bajo coste para diseñar, op
 
 ## Colaboraciones
 
-Estoy abierto a colaborar con clínicas veterinarias, centros de rehabilitación y centros de recuperación de fauna interesados en dispositivos ortopédicos a medida impresos en 3D. Puedes [escribirme](mailto:hector.rivada@rai.usc.es).
+Estoy abierto a colaborar con clínicas veterinarias, centros de rehabilitación y centros de recuperación de fauna interesados en dispositivos ortopédicos a medida impresos en 3D. Puedes escribirme a **hector.rivada@rai.usc.es**
 
 ## Novedades
 
