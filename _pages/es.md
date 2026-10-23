@@ -2,6 +2,7 @@
 permalink: /es/
 title: "Sobre mí"
 author_profile: true
+lang: es
 header:
   image: "banner-animado.webp"
 ---
@@ -18,6 +19,10 @@ Mi investigación desarrolla un flujo de trabajo de bajo coste para diseñar, op
 - Análisis por elementos finitos y optimización topológica de dispositivos ortopédicos
 - Prótesis y órtesis a medida para animales: diseño, fabricación y validación
 - Escaneado 3D y flujos digitales del paciente al dispositivo impreso
+
+## Colaboraciones
+
+Estoy abierto a colaborar con clínicas veterinarias, centros de rehabilitación y centros de recuperación de fauna interesados en dispositivos ortopédicos a medida impresos en 3D. Puedes [escribirme](mailto:hector.rivada@rai.usc.es).
 
 ## Novedades
 
