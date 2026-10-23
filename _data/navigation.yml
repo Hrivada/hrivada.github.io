@@ -4,6 +4,8 @@ main:
     url: /publications/
   - title: "Talks"
     url: /talks/
+  - title: "Awards"
+    url: /awards/
   - title: "Español"
     url: /es/
 
@@ -13,5 +15,7 @@ main_es:
     url: /publications/
   - title: "Pósteres y charlas"
     url: /talks/
+  - title: "Premios"
+    url: /es/premios/
   - title: "English"
     url: /
