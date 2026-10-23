@@ -25,7 +25,7 @@ My research develops a low-cost workflow to design, optimise and validate person
 
 ## Collaboration
 
-I am open to collaborations with veterinary clinics, rehabilitation centres and wildlife recovery centres interested in custom 3D-printed orthopaedic devices. Feel free to [get in touch](mailto:hector.rivada@rai.usc.es).
+I am open to collaborations with veterinary clinics, rehabilitation centres and wildlife recovery centres interested in custom 3D-printed orthopaedic devices. Feel free to get in touch: **hector.rivada@rai.usc.es**
 
 ## News
 
