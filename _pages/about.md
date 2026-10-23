@@ -2,6 +2,7 @@
 permalink: /
 title: "About"
 author_profile: true
+lang: en
 header:
   image: "banner-animado.webp"
 redirect_from:
@@ -21,6 +22,10 @@ My research develops a low-cost workflow to design, optimise and validate person
 - Finite element analysis and topology optimisation of orthopaedic devices
 - Custom prostheses and orthoses for animals: design, fabrication and validation
 - 3D scanning and digital workflows from patient to printed device
+
+## Collaboration
+
+I am open to collaborations with veterinary clinics, rehabilitation centres and wildlife recovery centres interested in custom 3D-printed orthopaedic devices. Feel free to [get in touch](mailto:hector.rivada@rai.usc.es).
 
 ## News
 
