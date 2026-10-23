@@ -6,6 +6,7 @@ permalink: /talks/2026-10-21-campus-terra-haptic-poster
 venue: "II Iberian Early-Career Researchers' Congress of the Campus Terra: Roots of Knowledge 2026"
 date: 2026-10-21
 location: "Lugo, Spain"
+excerpt: "🏆 Best Poster Award. A touchable 3D-printed poster on how manufacturing parameters change printed parts for personalised orthopaedics. Includes an interactive 3D viewer."
 ---
 
 **Authors:** H. Rivada-Rodríguez, A. Conde-Fernández, J. Rodríguez
