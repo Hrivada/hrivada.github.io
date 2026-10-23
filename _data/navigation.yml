@@ -6,3 +6,12 @@ main:
     url: /talks/
   - title: "Español"
     url: /es/
+
+# menú de la versión en español
+main_es:
+  - title: "Publicaciones"
+    url: /publications/
+  - title: "Pósteres y charlas"
+    url: /talks/
+  - title: "English"
+    url: /
