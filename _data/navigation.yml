@@ -6,7 +6,7 @@ main:
     url: /talks/
   - title: "Awards"
     url: /awards/
-  - title: "Español"
+  - title: '<i class="fas fa-globe" aria-hidden="true"></i> ES'
     url: /es/
 
 # menú de la versión en español
@@ -17,5 +17,5 @@ main_es:
     url: /talks/
   - title: "Premios"
     url: /es/premios/
-  - title: "English"
+  - title: '<i class="fas fa-globe" aria-hidden="true"></i> EN'
     url: /
