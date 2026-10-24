@@ -13,7 +13,7 @@ site_theme               : "air"
 title                    : "Héctor Rivada Rodríguez"
 title_separator          : "-"
 name                     : &name "Héctor Rivada Rodríguez"
-description              : &description "Academic portfolio of Héctor Rivada Rodríguez, PhD candidate at the University of Santiago de Compostela"
+description              : &description "Academic portfolio of Héctor Rivada Rodríguez, PhD student at the University of Santiago de Compostela"
 url                      : https://hrivada.github.io
 baseurl                  : ""
 repository               : "Hrivada/hrivada.github.io"
