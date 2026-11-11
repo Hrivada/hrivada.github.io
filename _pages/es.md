@@ -9,7 +9,7 @@ header:
 
 *[English version](/)*
 
-Soy doctorando en la Universidad de Santiago de Compostela (Campus Terra, Lugo), en el Programa de Doctorado en Ingeniería para el Desarrollo Rural y Civil. Formo parte del grupo de investigación BioMODEM (GI-1720) y colaboro con el grupo AMGeo y el instituto iTERRA.
+Soy ingeniero forestal y agrícola (máster en Ingeniería de Montes) y doctorando en la Universidad de Santiago de Compostela (Campus Terra, Lugo), en el Programa de Doctorado en Ingeniería para el Desarrollo Rural y Civil. Formo parte del grupo de investigación BioMODEM (GI-1720) y colaboro con el grupo AMGeo y el instituto iTERRA.
 
 Mi investigación desarrolla un flujo de trabajo de bajo coste para diseñar, optimizar y validar dispositivos ortopédicos veterinarios personalizados fabricados mediante impresión 3D FDM.
 
