@@ -12,7 +12,7 @@ redirect_from:
   - /about.html
 ---
 
-*[Versión en español](/es/)*
+*[Versión en español](/es/)* · *[CV (PDF)](/files/CV_Hector_Rivada_Rodriguez.pdf)*
 
 I am a forest and agricultural engineer (MSc in Forest Engineering) and a PhD student at the University of Santiago de Compostela (Campus Terra, Lugo), in the Doctoral Programme in Engineering for Rural and Civil Development. I am a member of the BioMODEM research group (GI-1720) and work with the AMGeo group and the iTERRA institute.
 

@@ -9,7 +9,7 @@ header:
   alt: "Banner animado con prótesis impresas en 3D para distintos animales"
 ---
 
-*[English version](/)*
+*[English version](/)* · *[CV (PDF, en inglés)](/files/CV_Hector_Rivada_Rodriguez.pdf)*
 
 Soy ingeniero forestal y agrícola (máster en Ingeniería de Montes) y doctorando en la Universidad de Santiago de Compostela (Campus Terra, Lugo), en el Programa de Doctorado en Ingeniería para el Desarrollo Rural y Civil. Formo parte del grupo de investigación BioMODEM (GI-1720) y colaboro con el grupo AMGeo y el instituto iTERRA.
 
