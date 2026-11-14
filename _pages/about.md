@@ -1,10 +1,12 @@
 ---
 permalink: /
 title: "About"
+og_title: "Héctor Rivada Rodríguez – Low-cost 3D-printed veterinary orthopaedics"
 author_profile: true
 lang: en
 header:
   image: "banner-animado.webp"
+  alt: "Animated banner showing 3D-printed prostheses for different animals"
 redirect_from:
   - /about/
   - /about.html

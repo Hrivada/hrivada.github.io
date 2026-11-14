@@ -1,10 +1,12 @@
 ---
 permalink: /es/
 title: "Sobre mí"
+og_title: "Héctor Rivada Rodríguez – Ortopedia veterinaria impresa en 3D de bajo coste"
 author_profile: true
 lang: es
 header:
   image: "banner-animado.webp"
+  alt: "Banner animado con prótesis impresas en 3D para distintos animales"
 ---
 
 *[English version](/)*
